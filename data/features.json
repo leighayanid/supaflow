@@ -1,0 +1,37 @@
+{
+  "features": [
+    {
+      "name": "Rapid Development",
+      "description": "Kickstart your hackathon project with our template, built for rapid development. Get your idea off the ground quickly and efficiently."
+    },
+    {
+      "name": "User Authentication",
+      "description": "Implement secure user authentication with Supabase Auth. Ensure that only registered participants can access and contribute to the hackathon projects."
+    },
+    {
+      "name": "Data Storage with Supabase",
+      "description": "Utilize Supabase Storage for efficient data storage. Store project details, resources, and other relevant information with ease."
+    },
+    {
+      "name": "Simple Todo Feature",
+      "description": "Stay organized and boost productivity with our built-in Simple Todo feature. Participants can manage their tasks and stay on top of project goals throughout the hackathon."
+    },
+    {
+      "name": "Modular Architecture",
+      "description": "Supaflow follows a modular architecture, making it easy to integrate new features and adapt to the evolving needs of your hackathon project."
+    },
+    {
+      "name": "Sleek Styling with Shadcn-vue",
+      "description": "Enhance the visual appeal of your project with the modern styling of Shadcn-vue. Impress participants with a polished and professional interface."
+    },
+    
+    {
+      "name": "Responsive Design",
+      "description": "Ensure that participants can access and interact with the project seamlessly on various devices. A responsive design guarantees a smooth user experience for everyone."
+    },
+    {
+      "name": "Performance Optimization",
+      "description": "Benefit from the performance and efficiency of Nuxt 3. Deliver project details and updates quickly, keeping participants engaged throughout the hackathon."
+    }
+  ]
+}
